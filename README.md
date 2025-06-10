@@ -1,25 +1,28 @@
-# Simulado de Classes - UC de Técnicas da Programação
+# SimuladoClasses
 
-Este repositório contém um conjunto de códigos em Java que servem como um simulado para treinamento sobre classes, como parte da disciplina de Técnicas da Programação, ministrada pelo professor Bruno da Silva Andrade. O objetivo é proporcionar uma prática efetiva sobre conceitos de programação orientada a objetos, como encapsulamento, herança e polimorfismo.
+Simulado sobre Classes (UC de Técnicas de Programação)
 
-## Estrutura do Projeto
+![Java](https://img.shields.io/badge/language-Java-blue.svg)
 
-O projeto é organizado em diferentes pacotes e classes, cada um representando um aspecto específico do simulado. Abaixo está uma breve descrição das principais classes e suas funcionalidades:
+## 📚 Sobre
 
-### 1. Classes de Produto
+Este projeto consiste em um simulado prático sobre o uso de Classes em Java, desenvolvido como parte da UC de Técnicas de Programação.
 
-- **Produto.java**: Esta classe representa um produto com atributos como nome, preço e quantidade. Ela inclui métodos para preencher dados, atualizar informações e exibir detalhes do produto.
+## 🚀 Funcionalidades
 
-- **Principal.java**: Esta classe contém o método `main` que permite ao usuário interagir com o sistema, cadastrar produtos e visualizar suas informações.
+- Exercícios práticos sobre classes e objetos
+- Exemplos de encapsulamento, herança e polimorfismo
+- Código comentado para facilitar o aprendizado
 
-### 2. Classes de Aluno
+## 🛠️ Tecnologias
 
-- **Aluno.java**: Esta classe representa um aluno com atributos como nome, idade e nota. Ela inclui métodos para preencher dados, atualizar a nota e exibir detalhes do aluno.
+- [Java](https://www.java.com/)
 
-- **Principal.java**: Esta classe contém o método `main` que permite ao usuário interagir com o sistema, cadastrar alunos e visualizar suas informações.
+## 📂 Como usar
 
-### 3. Versões Melhoradas
-
-- **v1**: Contém versões iniciais das classes de `Produto` e `Principal`, onde o foco é a interação básica com o usuário.
-
-- **v2 (melhorada)**: Apresenta uma versão aprimorada das classes, onde foram implementadas melhorias na interação do usuário, como a possibilidade de atualizar informações de produtos após o cadastro.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/CaduBraga/SimuladoClasses.git
+   ```
+2. Importe o projeto em sua IDE Java favorita (Eclipse, IntelliJ, NetBeans).
+3. Compile e execute as classes conforme as instruções dos exercícios.
