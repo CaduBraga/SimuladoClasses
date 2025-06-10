@@ -26,3 +26,5 @@ Este projeto consiste em um simulado prático sobre o uso de Classes em Java, de
    ```
 2. Importe o projeto em sua IDE Java favorita (Eclipse, IntelliJ, NetBeans).
 3. Compile e execute as classes conforme as instruções dos exercícios.
+
+---
